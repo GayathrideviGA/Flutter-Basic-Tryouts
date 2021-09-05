@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "265632009006",
+    "firebase_url": "https://esp8266-firebase-flutter.firebaseio.com",
+    "project_id": "esp8266-firebase-flutter",
+    "storage_bucket": "esp8266-firebase-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265632009006:android:d3a2488e451d647d8dc8bf",
+        "android_client_info": {
+          "package_name": "com.elxampe.embedded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265632009006-85npqkg57th03tqcqpn9tohk8ptmalla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQHu7kxBaa6dJFu3CEiwLBkGBzQSF1dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265632009006-85npqkg57th03tqcqpn9tohk8ptmalla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265632009006:android:ad1dc04f32efd02e8dc8bf",
+        "android_client_info": {
+          "package_name": "com.example.distance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265632009006-85npqkg57th03tqcqpn9tohk8ptmalla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQHu7kxBaa6dJFu3CEiwLBkGBzQSF1dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265632009006-85npqkg57th03tqcqpn9tohk8ptmalla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265632009006:android:2e4c015f0b44fd758dc8bf",
+        "android_client_info": {
+          "package_name": "com.example.embedded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265632009006-85npqkg57th03tqcqpn9tohk8ptmalla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQHu7kxBaa6dJFu3CEiwLBkGBzQSF1dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265632009006-85npqkg57th03tqcqpn9tohk8ptmalla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
